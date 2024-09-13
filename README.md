@@ -8,10 +8,10 @@
 - **Intuitive Use**: Engage with a straightforward input mechanism to specify the temporal shift.
 
   
-##Contributing
+## Contributing
 Contributions are welcome. Engage with the repository by opening issues or submitting pull requests to further enrich this temporal exploration.
 
-##Contact
+## Contact
 For inquiries or contemplations, please reach out to logictinkerer@gmail.com
 
 
