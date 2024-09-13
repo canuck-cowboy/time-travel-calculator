@@ -15,10 +15,12 @@ Contributions are welcome. Engage with the repository by opening issues or submi
 For inquiries or contemplations, please reach out to logictinkerer@gmail.com
 
 
-## Example
-
+## Examples
 ```bash
+### Advancing into the future
 How many days shall we advance to the future from today: 10
 We arrive on a Saturday - Date: 2024-09-23 
 
-
+### Going Back in Time
+How many days shall we go back in time from today: -20
+We arrive on a Tuesday - Date: 2024-08-20
