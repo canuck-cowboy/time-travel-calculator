@@ -33,7 +33,7 @@ def get_user_input(prompt):
     """
     This function ensures that the user enters a valid integer
     :param prompt:
-    :return:
+    :return: user input casted into an int
     """
     while True:
         try:
