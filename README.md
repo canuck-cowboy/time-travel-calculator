@@ -26,3 +26,9 @@ We arrive on a Saturday - Date: 2024-09-23
 ### Going Back in Time
 How many days shall we go back in time from today: -20
 We arrive on a Tuesday - Date: 2024-08-20
+```
+
+``` bash
+Shall we journey through time by (D)ays or (H)ours: h
+How many HOURS shall we advance or go back from today: 4
+We arrive at 17:36 - Sep 20, 2024
